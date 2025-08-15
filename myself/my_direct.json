@@ -1,10 +1,35 @@
 {
-  "version": 2,
+  "version": 1,
   "rules": [
     {
       "domain_suffix": [
-        "oaifree.com",
-        "oaiusercontent.com"
+        "futunn.com",
+        "futu5.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "moomoo.com",
+        "moomoo.com.hk"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "xiaohongshu.com",
+        "xhslink.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "gov.hk",
+        "eform.one.gov.hk"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "longbridge.hk",
+        "longbridge.global",
+        "lbkrs.com"
       ]
     }
   ]
